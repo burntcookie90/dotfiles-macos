@@ -1,6 +1,12 @@
 #!/bin/sh
 brew install fish-shell/fish-beta-4/fish
 
-curl -sL https://raw.githubusercontent.com/jorgebucaran/fisher/main/functions/fisher.fish | source && fisher install jorgebucaran/fisher
+if [ -x /usr/bin/fish ]; then
+	fish -c "\
+curl -sL https://raw.githubusercontent.com/jorgebucaran/fisher/main/functions/fisher.fish \
+| source && fisher install jorgebucaran/fisher
+"
 
-fisher update
+  fish -c "fisher update"
+fi
+
