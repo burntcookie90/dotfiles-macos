@@ -1,0 +1,5 @@
+keybind = global:ctrl+`=toggle_quick_terminal
+theme = Sublette
+cursor-style = block
+shell-integration-features = no-cursor
+command = /opt/homebrew/bin/fish
