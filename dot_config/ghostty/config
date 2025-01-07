@@ -3,3 +3,6 @@ theme = Sublette
 cursor-style = block
 shell-integration-features = no-cursor
 command = /opt/homebrew/bin/fish
+background-opacity = 0.9
+background-blur-radius = 5
+macos-titlebar-proxy-icon = hidden
