@@ -9,7 +9,7 @@ fi
 # export PATH=$HOME/bin:/usr/local/bin:$PATH
 
 # Path to your oh-my-zsh installation.
-export ZSH="~/.oh-my-zsh"
+export ZSH="$HOME/.oh-my-zsh"
 
 # Set name of the theme to load --- if set to "random", it will
 # load a random theme each time oh-my-zsh is loaded, in which case,
@@ -123,7 +123,7 @@ eval "$(jenv init -)"
 
 # Hishtory Config:
 export PATH="$PATH:/Users/vishnu/.hishtory"
-source /Users/vishnu/.hishtory/config.zsh
+source $HOME/.hishtory/config.zsh
 export HISHTORY_SERVER=http://192.168.86.40:4758
 
 
