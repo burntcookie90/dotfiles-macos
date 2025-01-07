@@ -3,4 +3,5 @@ if status is-interactive
     source ~/.hishtory/config.fish
     fish_add_path /opt/homebrew/bin
     fish_add_path ~/.hishtory
+    fish_vi_key_bindings
 end
