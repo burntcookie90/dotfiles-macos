@@ -1,6 +1,8 @@
 set fish_greeting
 
 source ~/.hishtory/config.fish
+source ~/.asdf/plugins/java/set-java-home.fish
+
 set -gx HISHTORY_SERVER http://192.168.86.40:4758
 
 set -gx ANDROID_HOME $HOME/Library/Android/sdk
