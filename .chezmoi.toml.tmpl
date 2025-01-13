@@ -1,5 +1,8 @@
 {{- $githubEmail := promptStringOnce . "githubEmail" "Github email address" -}}
 
+[cd]
+  command = "fish"
+
 [data]
     githubEmail = {{ $githubEmail | quote }}
 
