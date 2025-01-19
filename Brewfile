@@ -75,7 +75,7 @@ cask "visual-studio-code"
 cask "vlc"
 cask "wifiman"
 cask "zoom"
-mas "Tripsy", id: 1429967544
+mas "Bitwarden", id: 1352778147
 mas "Xcode", id: 497799835
 vscode "christian-kohler.npm-intellisense"
 vscode "streetsidesoftware.code-spell-checker"
