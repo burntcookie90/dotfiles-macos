@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Battery_state</key>
+	<false/>
+	<key>LaunchAtLoginNext</key>
+	<true/>
+	<key>NSNavPanelExpandedSizeForSaveMode</key>
+	<string>{800, 448}</string>
+	<key>NSNavPanelExpandedStateForSaveMode</key>
+	<true/>
+	<key>NSOSPLastRootDirectory</key>
+	<data>
+	Ym9vaxgDAAAAAAQQMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8AEA
+	AAQAAAADAwAAAAQAAAUAAAABAQAAVXNlcnMAAAAOAAAAAQEAAHZpc2hudXJhamVldmFu
+	AAAHAAAAAQEAAC5jb25maWcABQAAAAEBAABzdGF0cwAAABAAAAABBgAAEAAAACAAAAA4
+	AAAASAAAAAgAAAAEAwAAvj0AAAAAAAAIAAAABAMAAJAdBAAAAAAACAAAAAQDAAAb7QYA
+	AAAAAAgAAAAEAwAAYwIQBAAAAAAQAAAAAQYAAHAAAACAAAAAkAAAAKAAAAAIAAAAAAQA
+	AEHGoWNBKC+TGAAAAAECAAACAAAAAAAAAB8CAAAAAAAAHwIAAAAAAAAAAAAAAQUAAAgA
+	AAAEAwAAAgAAAAAAAAAEAAAAAwMAAPUBAAAIAAAAAQkAAGZpbGU6Ly8vDAAAAAEBAABN
+	YWNpbnRvc2ggSEQIAAAABAMAAABQoRtzAAAACAAAAAAEAABBxmPIQAAAACQAAAABAQAA
+	OUYwRjI4NzUtQzdGQi00Q0E0LTg2OEEtNzJDODFFNTZERTcwGAAAAAECAACBAAAAAQAA
+	AO8TAAABAAAA7xMAAAEAAAABAAAAAQEAAC8AAAAwAAAAAQIAAGRuaWIAAAAAAQAAAAAA
+	AAAAAAAAAAAAAAAAAAAAAAAAAAAAAHJkbGYCAAAAAAAAAPAAAAD+////AQAAAAAAAAAT
+	AAAABBAAAFgAAAAAAAAABRAAALAAAAAAAAAAEBAAANgAAAAAAAAAQBAAAMgAAAAAAAAA
+	AiAAAKwBAAAAAAAABSAAABwBAAAAAAAAECAAACwBAAAAAAAAESAAAGABAAAAAAAAEiAA
+	AEABAAAAAAAAEyAAAFABAAAAAAAAICAAAIwBAAAAAAAAMCAAAPgAAAAAAAAAAcAAAAAB
+	AAAAAAAAEcAAACAAAAAAAAAAEsAAABABAAAAAAAAAdAAAPgAAAAAAAAAENAAAAQAAAAA
+	AAAAF/AAAEgAAAAAAAAAIvAAALgBAAAAAAAA
+	</data>
+	<key>NSToolbar Configuration eu.exelban.Stats.Settings.Toolbar</key>
+	<dict>
+		<key>TB Display Mode</key>
+		<integer>1</integer>
+		<key>TB Icon Size Mode</key>
+		<integer>1</integer>
+		<key>TB Is Shown</key>
+		<true/>
+		<key>TB Size Mode</key>
+		<integer>1</integer>
+	</dict>
+	<key>NSWindow Frame NSNavPanelAutosaveName</key>
+	<string>560 455 800 448 0 0 1920 1055 </string>
+	<key>Sensors_barChart_position</key>
+	<integer>3</integer>
+	<key>Sensors_label_position</key>
+	<integer>2</integer>
+	<key>Sensors_mini_position</key>
+	<integer>1</integer>
+	<key>Sensors_stack_position</key>
+	<integer>0</integer>
+	<key>Sensors_state</key>
+	<true/>
+	<key>Sensors_widget</key>
+	<string>sensors</string>
+	<key>runAtLoginInitialized</key>
+	<true/>
+	<key>sensor_Average CPU</key>
+	<true/>
+	<key>sensor_Average System Total</key>
+	<true/>
+	<key>sensor_ID0R</key>
+	<false/>
+	<key>sensor_PDTR</key>
+	<false/>
+	<key>sensor_PSTR</key>
+	<false/>
+	<key>setupProcess</key>
+	<true/>
+	<key>support_ts</key>
+	<integer>1737468971</integer>
+	<key>telemetry</key>
+	<false/>
+	<key>telemetry_id</key>
+	<string>34FBB6EE-748F-43A8-AE98-79117D97C6AD</string>
+	<key>temperature_units</key>
+	<string>celsius</string>
+	<key>updater_check_ts</key>
+	<integer>1737468951</integer>
+	<key>version</key>
+	<string>2.11.26</string>
+</dict>
+</plist>
