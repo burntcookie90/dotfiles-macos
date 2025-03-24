@@ -40,3 +40,9 @@ map \r <Action>(ReformatCode)
 
 nnoremap gn :action GotoNextError<CR>
 nnoremap gp :action GotoPreviousError<CR>
+
+sethandler <C-A> a:vim
+sethandler <C-D> a:vim
+sethandler <C-R> a:vim
+sethandler <C-T> a:ide
+
