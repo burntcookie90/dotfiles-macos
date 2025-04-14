@@ -1,2 +1,2 @@
 abbr -a -- sm 'smerge .'
-abbr -a -- gcobvr 'git checkout -b vr/'
+abbr -a --set-cursor gcobvr "git checkout -b vr/%"
