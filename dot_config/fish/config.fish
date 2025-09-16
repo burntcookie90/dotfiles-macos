@@ -12,6 +12,7 @@ if status is-interactive
     # Commands to run in interactive sessions can go here
     fish_add_path /opt/homebrew/bin
     fish_add_path ~/.hishtory
+    fish_add_path ~/bin
     fish_add_path $ANDROID_HOME/platform-tools
     fish_vi_key_bindings
 
