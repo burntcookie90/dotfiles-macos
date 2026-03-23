@@ -1,5 +1,4 @@
 tap "grishka/grishka"
-tap "homebrew/bundle"
 tap "mdogan/zulu"
 tap "microsoft/git"
 tap "music-assistant/tap"
@@ -65,7 +64,6 @@ cask "jetbrains-toolbox"
 cask "keepingyouawake"
 cask "meetingbar"
 cask "mullvad-vpn"
-cask "neardrop"
 cask "nextcloud"
 cask "ngrok"
 cask "openmtp"
@@ -88,8 +86,3 @@ mas "Bitwarden", id: 1352778147
 mas "Infuse", id: 1136220934
 mas "WireGuard", id: 1451685025
 mas "Xcode", id: 497799835
-vscode "christian-kohler.npm-intellisense"
-vscode "streetsidesoftware.code-spell-checker"
-vscode "vscodevim.vim"
-vscode "vue.volar"
-vscode "vue.vscode-typescript-vue-plugin"
